@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FORMULIR PPDB JALUR ZONASI TAHUN 2021</title>
+</head>
+    <h1>FORMULIR PPDB JALUR ZONASI TAHUN 2021</h1>
+<body>
+    <form action="login.php" method="POST">
+        <fieldset>
+        <legend>INFO PENDAFTARAN</legend>
+        <p>
+            <label>1.NISN:</label>
+            <input type="text" name="NISN" placeholder="NISN..." />
+        </p>
+        <p>
+            <label>2.Asal sekolah:</label>
+            <input type="Asal sekolah" name="Asal sekolah" placeholder="Asal sekolah..." />
+        </p>
+        <p>
+            <label>3.Tahun Lulus:</label>
+            <input type="Tahun Lulus" name="Tahun Lulus" value="Tahun Lulus" /> Tahun Lulus</label>
+        </p>
+        <legend>DATA CALON PESERTA</legend>
+        <p>
+            <label>6.Nama Lengkap:</label>
+            <input type="text" name="Nama Lengkap" placeholder="Nama Lengkap..." />
+        </p>
+        <p>
+            <label>7.NIM:</label>
+            <input type="text" name="NIM" placeholder="NIM..." />
+        </p>
+        <p>
+            <label>Tanggal Lahir:</label>
+            <input type="date" name="tanggal" />
+        </p>
+        <p>
+            <label>Umur:</label>
+            <input type="number" min="10" max="90" name="umur" />
+        </p>
+        <p>
+            <label>9.Jenis kelamin:</label>
+            <input type="Jenis kelamin" name="Jenis kelamin" />
+        </p>
+        <p>
+            <label>10.Alamat:</label>
+            <input type="Alamat" name="Alamat" placeholder="Alamat" />
+        </p>
+        <p>
+            <label>11.                  Desa/Kel:</label>
+            <input type="Desa/Kel" name="Desa/Kel" placeholder="Desa/Kel" />
+        </p>
+        <p>
+            <label>12.                  Kecamatan:</label>
+            <input type="Kecamatan" name="Kecamatan" placeholder="Kecamatan" />
+        </p>
+        <p>
+            <label>13.                  Kabupaten:</label>
+            <input type="Kabupaten" name="Kabupaten" placeholder="Kabupaten" />
+        </p>
+        <p>
+            <label>14.                  Provinsi:</label>
+            <input type="Provinsi" name="Provinsi" placeholder="Provinsi" />
+        </p>
+        <p>
+            <label>15.Email Aktif:</label>
+            <input type="Email Aktif" name="Email Aktif" />
+        </p>
+    <legend>DATA ORANG TUA</legend>
+    <p>
+        <label>16.Nomor Kartu Keluarga:</label>
+        <input type="Nomor Kartu Keluarga" name="Nomor Kartu Keluarga" />
+    </p>  
+    <p>
+        <label>17.Nama Ayah Kandung:</label>
+        <input type="Nama Ayah Kandung" name="Nama Ayah Kandung" />
+    </p>  
+    <p>
+        <label>18.Agama:</label>
+        <input type="Agama" name="Agama" />
+    </p>  
+    <p>
+        <label>19.Pekerjaan:</label>
+        <input type="Pekerjaan" name="Pekerjaan" />
+    </p>  
+    <p>
+        <label>20.Nama ibu kandung:</label>
+        <input type="Nama ibu kandung" name="Nama ibu kandung" />
+    </p>  
+    <p>
+        <label>21.Agama:</label>
+        <input type="Agama" name="Agama" />
+    </p> 
+    <p>
+        <label>22.Pekerjaan:</label>
+        <input type="Pekerjaan" name="Pekerjaan" />
+    </p> 
+    <p>
+        <label>23.Alamat Orang Tua:</label>
+        <input type="Alamat Orang Tua" name="Alamat Orang Tua" />
+    </p> 
+    <p>
+        <label>23.                  Desa/Kel:</label>
+        <input type="Desa/Kel" name="Desa/Kel" placeholder="Desa/Kel" />
+    </p>
+    <p>
+        <label>24.                  Kecamatan:</label>
+        <input type="Kecamatan" name="Kecamatan" placeholder="Kecamatan" />
+    </p>
+    <p>
+        <label>25.                  Kabupaten:</label>
+        <input type="Kabupaten" name="Kabupaten" placeholder="Kabupaten" />
+    </p>
+    <p>
+        <label>26.                  Provinsi:</label>
+        <input type="Provinsi" name="Provinsi" placeholder="Provinsi" />
+    </p>
+    </fieldset>
+    </form>
+</body>
+</html>
+    
+    
+
+    
+
+
+
+
