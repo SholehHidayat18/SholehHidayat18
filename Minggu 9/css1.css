@@ -1,0 +1,41 @@
+body{
+    background: #1a8eec;
+    font-family: roboto;
+    text-align: center ;
+}
+h1{
+    color: #fff;
+}
+.ketengah{
+    margin: 10px auto;
+    width: 1150px;
+}
+.kotak{
+    background: #fcfcfc;
+    padding: 20px;
+    width: 200px;
+    float: left;
+    margin: 20px;
+    height: 200px;
+}
+.kotak1{
+    border-radius: 10px     10px    10px    10px;
+}
+.kotak2{
+    border-radius: 100%;
+}
+.kotak3{
+    border-radius: 2px     140px    20px    60px;
+}
+.kotak4{
+    border-radius:  0px      50px    0px    50px;
+}
+.kotak5{
+    border-radius: 10px     10px    10px    10px;
+}
+.kotak7{
+    border-radius: 10px     80px    10px    20px;
+}
+.kotak1{
+    border-radius: 50px      0px    50px     0px;
+}
