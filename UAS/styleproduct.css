@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    padding: 50px 0;
+}
+
+section h4 {
+    text-align: left;
+    color: #fafdfd;
+}
+
+header h5 {
+    text-align: center;
+    padding: 20px 0;
+    color: #fafdfd;
+    font-size: 80;
+    border: 1px solid;
+}
+
+header h6 {
+    text-align: center;
+    padding: 20px 0;
+    color: #fafdfd;
+    font-size: 50;
+}
+
+.katalog p {
+    text-align: center;
+    color: #fafdfd;
+    font-size: 20;
+}
+
+.card a:hover img {
+    transform: scale(1.2);
+}
+
+.card a:hover input {
+    transform: scale(1.2);
+}
+
+.card p {
+    text-align: left;
+    color: #fafdfd;
+}
+
+.card input {
+    font-style: inherit;
+}
+
+fieldset:hover input {
+    margin-left: 30px;
+    transform: scale(1.2);
+}
+
+fieldset label {
+    margin-inline: 10px;
+}
